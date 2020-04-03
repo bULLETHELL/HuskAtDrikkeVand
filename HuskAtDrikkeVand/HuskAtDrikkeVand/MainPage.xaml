@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="HuskAtDrikkeVand.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Velkommen til Husk At Drikke Vand! (Ellers dør I)"
+                FontSize="Large"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+
+        <Label Text="Indtast din vægt i kg">
+        </Label>
+        
+        <Entry x:Name="weightEntry"  Keyboard="Numeric">
+        </Entry>
+
+        <Label Text="Hvor mange liter vand har du drukket i dag?">
+        </Label>
+        
+        <Entry x:Name="waterAmountEntry" Keyboard="Numeric">
+        </Entry>
+
+        <Label x:Name="remainingWaterIntakeLabel" VerticalOptions="Center" HorizontalOptions="Center" FontSize="Medium">
+        </Label>
+
+        <Button x:Name="calculateButton" Text="Beregn" Clicked="calculateButton_Clicked">
+        </Button>
+    </StackLayout>
+
+</ContentPage>

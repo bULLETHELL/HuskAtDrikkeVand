@@ -1,0 +1,14 @@
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\bin\Debug\netstandard2.0\HuskAtDrikkeVand.deps.json
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\bin\Debug\netstandard2.0\HuskAtDrikkeVand.dll
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\bin\Debug\netstandard2.0\ref\HuskAtDrikkeVand.dll
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\bin\Debug\netstandard2.0\HuskAtDrikkeVand.pdb
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\HuskAtDrikkeVand.csprojAssemblyReference.cache
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\HuskAtDrikkeVand.csproj.CoreCompileInputs.cache
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\HuskAtDrikkeVand.AssemblyInfoInputs.cache
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\HuskAtDrikkeVand.AssemblyInfo.cs
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\HuskAtDrikkeVand.dll
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\ref\HuskAtDrikkeVand.dll
+C:\Users\fucking lorte styres\source\repos\HuskAtDrikkeVand\HuskAtDrikkeVand\HuskAtDrikkeVand\obj\Debug\netstandard2.0\HuskAtDrikkeVand.pdb
