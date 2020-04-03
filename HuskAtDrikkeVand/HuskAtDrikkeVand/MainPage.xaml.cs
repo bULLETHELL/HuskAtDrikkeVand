@@ -18,13 +18,17 @@ namespace HuskAtDrikkeVand
             InitializeComponent();
         }
 
+        // Calculate Button Clicked Event Handler
         private void calculateButton_Clicked(object sender, EventArgs e)
         {
-            double remainingWaterIntake;
+            double remainingWaterIntake; 
+            // Instantiation of new WaterCalculator object
             WaterCalculator waterCalculator = new WaterCalculator(Double.Parse(weightEntry.Text), Double.Parse(waterAmountEntry.Text));
 
+            // Call to CalculateRemainingWaterIntake function
             remainingWaterIntake = waterCalculator.CalculateRemainingWaterIntake();
 
+            // Set Text property of remainingWaterIntakeLabel to string with remainingWaterIntake variable
             remainingWaterIntakeLabel.Text = String.Format("Du mangler at drikke {0} liter vand", remainingWaterIntake.ToString());
         }
     }
